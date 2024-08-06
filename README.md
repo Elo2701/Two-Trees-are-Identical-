@@ -1,5 +1,31 @@
 # Two-Trees-are-Identical-
-/*
+/*Determine if Two Trees are Identical (Easy)
+
+Given two binary trees, the task is to find if both of them are identical or not.
+
+Examples
+Example 1: 
+
+Input:
+
+    1           1
+   / \         / \
+ 2     3    2    3
+
+Output: Yes
+
+ 
+
+Example 2: 
+
+Input:
+
+    1           1
+   / \         / \
+ 2     3    3    2
+
+Output: No
+*/
 
 public class TreeNode {
     public int val;
